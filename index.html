@@ -426,7 +426,7 @@
     <div class="db-status" id="dbStatus">Inicializando...</div>
 
     <div id="tab-prompts" class="tab-content active" role="tabpanel" aria-labelledby="tab-prompts-label">
-        <h1 id="tab-prompts-label">Prompts Intranetworks</h1>
+        <h1 id="tab-prompts-label">Prompts</h1>
         
         <div class="backup-area">
             <button class="btn-outline" onclick="PromptsManager.export()" aria-label="Backup">💾 Backup</button>
@@ -534,10 +534,6 @@
             DB_STORE: 'tutorials',
             TAGS_KEY: 'KB_Tags_Integrated',
             MAX_BG_SIZE_BYTES: 1.5 * 1024 * 1024, // Limite de segurança de 1.5MB p/ LocalStorage
-            DEFAULT_TAGS: [
-                { id: 't1', name: 'Redes', color: '#e74c3c' },
-                { id: 't2', name: 'Zabbix', color: '#e67e22' }
-            ]
         };
 
         // ============================================
