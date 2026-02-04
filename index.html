@@ -337,7 +337,7 @@
         @keyframes fadein { from {bottom: 0; opacity: 0;} to {bottom: 40px; opacity: 1;} }
         @keyframes fadeout { from {bottom: 40px; opacity: 1;} to {bottom: 0; opacity: 0;} }
 
-        /* COMANDOS ÚTEIS (TERMINAL THEME) */
+        /* COMANDOS (TERMINAL THEME) */
         .card-command {
             background: linear-gradient(180deg, #071017 0%, #0b1418 100%);
             color: #b8f2c2;
@@ -391,7 +391,7 @@
         <div class="nav-container">
             <div class="nav-item active" onclick="AppManager.switchTab('prompts', event)" role="tab" aria-selected="true" aria-controls="tab-prompts">🚀 Prompts</div>
             <div class="nav-item" onclick="AppManager.switchTab('tutorials', event)" role="tab" aria-selected="false" aria-controls="tab-tutorials">📚 KBs & Procedimentos</div>
-            <div class="nav-item" onclick="AppManager.switchTab('commands', event)" role="tab" aria-selected="false" aria-controls="tab-commands">🔧 Comandos Úteis</div>
+            <div class="nav-item" onclick="AppManager.switchTab('commands', event)" role="tab" aria-selected="false" aria-controls="tab-commands">🔧 Comandos</div>
         </div>
     </nav>
 
@@ -448,7 +448,7 @@
                 </div>
                 <div id="promptTextInput" class="rich-editor" contenteditable="true" placeholder="Escreva seu prompt aqui..." role="textbox"></div>
             </div>
-            <button class="add-btn" id="promptSaveButton" onclick="PromptsManager.add()">Salvar Novo Prompt</button>
+            <button class="add-btn" id="promptSaveButton" onclick="PromptsManager.add()">Salvar Prompt</button>
         </div>
 
         <div class="items-grid" id="promptGrid" role="region"></div>
@@ -492,7 +492,7 @@
     </div>
 
     <div id="tab-commands" class="tab-content" role="tabpanel" aria-labelledby="tab-commands-label">
-        <h1 id="tab-commands-label">Comandos Úteis</h1>
+        <h1 id="tab-commands-label">Comandos</h1>
 
         <div class="backup-area">
             <button class="btn-outline" onclick="CommandsManager.export()" aria-label="Backup">💾 Backup</button>
