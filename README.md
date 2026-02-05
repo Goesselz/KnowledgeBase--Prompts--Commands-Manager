@@ -10,7 +10,6 @@
 Esta **Single Page Application (SPA)** foi desenvolvida para rodar inteiramente no seu navegador, sem necessidade de servidores, bancos de dados externos ou instalações complexas. É a ferramenta ideal para centralizar o seu "segundo cérebro" técnico.
 
 🌐 **[Acesse o Live Demo aqui](https://pedrogoessel.github.io/KnowledgeBase--Prompts--and--Commands-Manager/)**
-*(Dica: Lembre-se de ativar o GitHub Pages nas configurações do seu repositório para este link funcionar)*
 
 ---
 
