@@ -39,10 +39,10 @@ Esta **Single Page Application (SPA)** foi desenvolvida para rodar inteiramente 
     git clone https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager.git
     ```
 2.  **Abra o arquivo:** Basta abrir o `index.html` em qualquer navegador moderno (Chrome, Edge, Firefox, Brave).
-3.  **Backup:** Use a função de **Backup & Restore (JSON)** para garantir a segurança dos seus dados ao trocar de máquina.
+3.  **Lembre-se de realizar Backups:** Use a função de **Backup & Restore (JSON)** para garantir a segurança dos seus dados.
 
 > [!IMPORTANT]
-> **Nota sobre Armazenamento:** Como os dados ficam no cache do navegador, limpezas agressivas de histórico podem apagar os dados. Exporte seu Backup JSON regularmente!
+> **Nota sobre Armazenamento:** Como os dados ficam no cache do navegador, limpezas agressivas de histórico podem **apagar os dados**. Exporte seu Backup JSON regularmente!
 
 ---
 
