@@ -6,7 +6,7 @@
 </p> <p align="center">
   <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#-o-que-h%C3%A1-de-novo">O que há de novo?</a> •
   <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#%EF%B8%8F-ferramentas">Ferramentas</a> •
-  <a href="#-personalização">UX/UI</a> •
+  <a href="https://github.com/PedroGoessel/Prompts--KnowledgeBase--and--Commands--Manager/tree/main#-como-utilizar?">Como utilizar?</a> •
   <a href="#-segurança--privacidade">Segurança</a> •
   <a href="#-instalação-rápida">Quick Start</a>
 </p>
@@ -69,7 +69,7 @@ A ferramenta essencial para quem precisa documentar incidentes rapidamente.
 
 ---
 
-## 🚀 Como Começar
+## 🚀 Como utilizar?
 
 O sistema é **totalmente estático** e não requer servidor ou banco de dados externo.
 
