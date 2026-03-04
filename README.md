@@ -275,30 +275,6 @@ Contribuições são sempre bem-vindas! Se você tem sugestões para melhorar es
 
 ---
 
-## 📝 Roadmap
-
-- [ ] Exportação de relatórios em PDF
-- [x] Sistema de backup unificado (todos os módulos)
-- [ ] Integração com APIs de monitoramento
-- [ ] Sistema de notificações
-- [ ] Suporte a múltiplos idiomas
-- [ ] PWA (Progressive Web App)
-- [ ] Sincronização em nuvem opcional
-
----
-
-## 🗓️ Changelog
-
-### v2.0.0
-- ✨ Adicionado **Backup Unificado** — exporte e restaure todos os módulos com um clique
-- 🎨 Abas de navegação centralizadas automaticamente
-- 🛡️ Validação inteligente de arquivos de backup (unificado vs. individual)
-
-### v1.0.0
-- 🚀 Lançamento inicial com Prompts, KBs, Comandos e Relatórios NOC
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
