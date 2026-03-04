@@ -11,7 +11,7 @@
 
 **Sistema completo para gerenciamento de operações de NOC (Network Operations Center)**
 
-[Demo](#) · [Reportar Bug](../../issues) · [Solicitar Feature](../../issues)
+[Demo](https://pedrogoessel.github.io/Integrated-NOC-System/) · [Reportar Bug](../../issues) · [Solicitar Feature](../../issues)
 
 </div>
 
